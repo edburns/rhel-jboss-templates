@@ -282,7 +282,7 @@ module pids './modules/_pids/_pid.bicep' = {
 }
 
 module partnerCenterPid './modules/_pids/_empty.bicep' = {
-  name: 'pid-1879addb-1fa9-4225-8bd2-6d0a1ffc5dc0-partnercenter'
+  name: 'pid-b3123d97-ad01-4e0b-bb5b-085bc95d9e4f-partnercenter'
   params: {}
 }
 
